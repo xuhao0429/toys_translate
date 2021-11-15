@@ -42,5 +42,6 @@ function myFunction(){
             document.getElementById("dst").innerHTML=data.trans_result[0].dst;
         } 
     });
+    
 }
 
